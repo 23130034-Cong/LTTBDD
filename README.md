@@ -1,1 +1,2 @@
-# "E:\MyApplication3"
+E:
+cd \MyApplication3
